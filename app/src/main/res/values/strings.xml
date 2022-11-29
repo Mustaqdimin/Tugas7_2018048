@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Aplikasi Halodoc</string>
+        <string name="Close">Close</string>
+        <string name="Open">Open</string>
+        <string name="deskription_menu">Dokter Umum</string>
+        <string name="ingredients">Alumni Universitas Baiturrahma</string>
+        <string name="price">Nomor STR : 1316736168138</string>
+        <string name="Harga">Rp25.000</string>
+        <string name="navigation_drawer_open">Open NavigationDrawer</string>
+        <string name="navigation_drawer_close">Close NavigationDrawer</string>
+        <string-array name="Halodoc">
+            <item>Dr.Irlandi</item>
+            <item>Dr.Yogi</item>
+            <item>Dr.Sibli</item>
+        </string-array>
+        <string-array name="Star">
+            <item>7.8</item>
+            <item>7.9</item>
+            <item>9.8</item>
+        </string-array>
+        <string-array name="Deskripsi">
+            <item>Rp30.000</item>
+            <item>Rp50.000</item>
+            <item>Rp35.000</item>
+        </string-array>
+    </resources>
